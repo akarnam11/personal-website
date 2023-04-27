@@ -1,3 +1,3 @@
 # Anirudh's Website
 
-Access website using <akarnam11.github.io>
+Access website using https://akarnam11.github.io
